@@ -1,0 +1,256 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color : grey;
+}
+.lightgrey {border: 1px lightgrey solid;}
+
+.treeZone{
+    padding: 10px;
+    overflow-x: scroll;
+    overflow-y:hidden;
+    font-size: 0.9em;
+    border-top : 0;
+    border-right : 0;
+    min-height:750px;;
+
+}
+.fileZone{
+   overflow-y: scroll;
+    border-top: 0;
+   max-height: 750px;;
+   min-height:750px;;
+}
+
+.signature{
+    padding : 5px;
+    text-align: center;
+    font-size: 10px;
+}
+
+.topAdjust{
+    margin-top: -21px;
+}
+
+.iconeMenu{
+    margin-right : 10px;
+    display: inline;
+}
+
+.windowTools {
+    padding : 3px;
+    margin-top : 3px;
+    border : 1px lightgrey solid;
+    margin-right: 10px;
+    float : right;
+}
+.windowTitle {
+    color : darkblue; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    Font-Variant: Small-Caps;
+    margin-left : 10px;
+    float: left; 
+    font-size: 1.6em;
+    opacity : 0.2;
+
+}
+
+.fakeWindow {
+    width: 100%;
+    height : 35px;
+    background-color:floralwhite;
+}
+
+.jstree-default-contextmenu{
+   background-color: white;
+}
+
+.vakata-context li>a .vakata-contextmenu-sep {
+    display : none;
+}
+
+.editZone{
+    width : 50%;
+    min-height: 750px;;
+    border-right : 1px lightgray solid;
+    float:left;
+    overflow: scroll;
+    
+}
+
+.infoZone{
+    float:left;
+    padding-left: 10px;
+     width : 50%;
+    
+}
+
+.hiddenForm{
+    display:none;
+}
+
+.short{
+    width : 250px!important;
+}
+
+.superShort{
+     width : 100px!important;
+}
+
+.mention{
+       font-weight: normal!important;
+       margin-left: 10px;
+        display: inline;
+        font-size: 0.8em;
+       
+}
+
+label{display: inline!important;}
+
+
+.dropdown-menu {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.dropdown-menu a {
+    overflow: hidden;
+    outline: none;
+}
+
+.bss-input {
+    border: 0;
+    margin: -3px;
+    padding: 3px;
+    outline: none;
+    color: #000;
+    width: 99%;
+}
+
+.bss-input:hover {
+    background-color: #f5f5f5;
+}
+
+.additem .check-mark {
+    opacity: 0;
+    z-index: -1000;
+}
+
+.addnewicon {
+    position: relative;
+    padding: 4px;
+    margin: -8px;
+    padding-right: 50px;
+    margin-right: -50px;
+    color: #aaa;
+}
+
+.addnewicon:hover {
+    color: #222;
+}
+
+.vraiFaux{margin-right : 15px;}
+
+.envoi{
+    margin-top :5px;
+    margin-left: 33%;
+    
+}
+
+.fileContent {
+    display:none;
+}
+
+.colo {
+    float:left;
+    width :50%;
+    height :550px;
+}
+
+.formCol2{
+    margin-top: 12px;
+    padding : 10px;
+    border-left : 1px lightgrey solid;
+}
+
+#imgIll{
+    visibility: hidden;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 100px;
+    width: 100%;
+    border : 1px grey solid;
+}
+
+.project{
+    margin-top: 10px!important;
+    margin-bottom: 10px!important;
+    border : 1px grey solid!important;
+    padding : 10px;
+}
+
+.coloRight {
+    float: left;
+    width: 50%;
+    
+}
+.formCol2Right {
+   
+}
+textarea.form-control {
+  height: 70px!important;
+}
+
+#previewer{
+    margin-top: 20px;
+}
+
+#formResult{
+    display:none;
+    width : 100%;
+    height: 30px;
+}
+.piclib{
+   overflow: scroll;
+   display: none;
+   height:auto;
+   width : 100%;
+   border-bottom : 1px lightgray solid;
+   position : relative;
+   padding :10px;
+}
+
+.piclib img { 
+    margin: 5px;
+}
+
+.imgcollitem{
+    float:left;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.row{
+     clear:both;
+}
+
+.crossDell{
+    margin-left: 85px;
+    
+    position : absolute;
+}
+
+.imgcollitem{
+    margin :3px;
+    border :1px lightgray solid;
+}
+
+#myform{
+    
+    padding : 5px;
+    border : 1px lightgrey solid!important;
+}

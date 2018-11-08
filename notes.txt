@@ -1,0 +1,13 @@
+- Inclure des favoris : accès rapide depuis le menu Navigation
+- Les exécutables peuvent déboucher sur une fenêtre d'illustration, qu'on ferme et on revient au navigateur
+- utiliser l'astuce CSS pour exécuter le sorting sur la date 
+- Dans la liste des fichiers et repertoire, si on doubleclique sur le repertoire on va vers le repertoire enfant et dans le JSTREE le node actif se met à jour
+- dans la zone fileList : construire un menu contextuel : 
+    1.copier
+    2.couper
+    3.coller
+    4.rename
+- chaque item de liste fichier / rep doit avoir un identifiant itx (it1, it2, it3...) permettant de gérer sa disparition et autres opérations uniques comme un rename
+- taille des icones : 22x22 pixels
+
+
